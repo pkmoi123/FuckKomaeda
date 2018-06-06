@@ -6,3 +6,4 @@ len = 0;
 dir = 0;
 
 state = move_state;
+isTalking = false //whether player is chatting

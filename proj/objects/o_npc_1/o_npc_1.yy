@@ -5,13 +5,13 @@
     "name": "o_npc_1",
     "eventList": [
         {
-            "id": "162000a9-c3b5-49e8-900a-41150b8b1198",
+            "id": "304a6c1a-446f-46be-a5e7-560eef61dd8d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
+            "eventtype": 0,
             "m_owner": "c801ce25-24b6-4cb5-b5ba-527e1bb8df65"
         }
     ],
