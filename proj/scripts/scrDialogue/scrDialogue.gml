@@ -29,6 +29,8 @@ with(dialogueBox) {
     //These variables are used to display the message one letter at a time, just need to be initialized
     currentText = "";
     position = 0;
+	currentText = "";
+	position = 0;
     
 }
 
