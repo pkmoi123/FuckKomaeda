@@ -10,6 +10,10 @@ if (xaxis == 0) && (yaxis == 0){
 // Get the speed variables
 hspd = lengthdir_x(len, dir);
 vspd = lengthdir_y(len, dir);
+if(isTalking){
+hspd = 0;
+vspd = 0;
+}
 
 // Horizontal Collisions
 if (place_meeting(x+hspd, y, obj_wall)){
