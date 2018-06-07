@@ -54,3 +54,16 @@ if(!collision_circle(x,y,64,o_npc_1,true,true)){
 	instance_destroy(o_NameBox);
 }
 
+//Conversation Checks
+if(isTalking){
+	if(index1==02 && messageGiver.object_index == o_npc_1 && currentChoice ==0)
+		fired = true;
+	else if(index1==02 && messageGiver.object_index == o_npc_1 && currentChoice ==1)
+		fired = false;
+		
+}
+
+if(fired && !isTalking){
+	show_message("You're fired!")
+	fired = false;
+}
