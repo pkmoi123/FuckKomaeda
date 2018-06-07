@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "8deccebe-8a7d-4906-9ed0-e00365cbdd6f",
+            "Value": {
+                "id": "5ae1f358-573b-467a-a136-fb5d8205497c",
+                "resourcePath": "objects\\o_ChoiceBox\\o_ChoiceBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "92480eaf-132d-407c-8222-5b57a83d98da",
             "Value": {
                 "id": "99170673-d04a-4086-abf9-31d43a82d985",
@@ -330,7 +338,7 @@
             "Key": "9b944a30-92ae-4434-9cb5-e10d7efbe627",
             "Value": {
                 "id": "4d722ca7-a712-4476-974a-c8dd9ed4c09c",
-                "resourcePath": "sprites\\sprite10\\sprite10.yy",
+                "resourcePath": "sprites\\dialoguebox\\dialoguebox.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -391,6 +399,14 @@
             }
         },
         {
+            "Key": "acfe564e-e918-48c2-ad55-93e898ab1df9",
+            "Value": {
+                "id": "31487a2c-9be4-4d4a-8d41-4e8a113cd656",
+                "resourcePath": "sprites\\choicebox\\choicebox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b4bd8a5f-f73d-446a-8df2-c83fcfc7d340",
             "Value": {
                 "id": "4aa6b7b3-afe6-4753-b277-47f668fc8770",
@@ -404,6 +420,14 @@
                 "id": "7d04e1dd-a688-4fc8-8510-66ac6544d974",
                 "resourcePath": "objects\\obj_wall\\obj_wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bb38fd73-899b-4ed5-86d4-9c18b320cc11",
+            "Value": {
+                "id": "f89ad0ac-1461-4b9d-b2a5-87880e5a5203",
+                "resourcePath": "scripts\\scrShowChoices\\scrShowChoices.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -522,7 +546,7 @@
             "Key": "e5d0929b-153c-4c40-b519-651368514fed",
             "Value": {
                 "id": "5bab2567-0af8-40f0-8b42-ef8ba3ad8e47",
-                "resourcePath": "sprites\\sprite101\\sprite101.yy",
+                "resourcePath": "sprites\\namebox\\namebox.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -623,7 +647,8 @@
         "3f0c546d-7d87-471c-a292-92aff9385e98",
         "92480eaf-132d-407c-8222-5b57a83d98da",
         "7798e0f5-8daa-4760-a3cb-b643542ef615",
-        "e93d490c-b269-4eb2-b8c7-6b48a642292c"
+        "e93d490c-b269-4eb2-b8c7-6b48a642292c",
+        "bb38fd73-899b-4ed5-86d4-9c18b320cc11"
     ],
     "tutorial": ""
 }

@@ -2,7 +2,7 @@
     "id": "9b944a30-92ae-4434-9cb5-e10d7efbe627",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite10",
+    "name": "dialoguebox",
     "For3D": false,
     "HTile": false,
     "VTile": false,
