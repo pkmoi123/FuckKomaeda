@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "e5d0929b-153c-4c40-b519-651368514fed",
+            "Value": {
+                "id": "5bab2567-0af8-40f0-8b42-ef8ba3ad8e47",
+                "resourcePath": "sprites\\sprite101\\sprite101.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e8ced56c-15ef-4c0e-a1ac-92a55c1e8a73",
             "Value": {
                 "id": "427d57d9-c27a-4d2e-b75f-4977523916cc",
@@ -524,6 +532,14 @@
                 "id": "5a3672ea-ad83-41bd-9ad9-491cbbeeee8d",
                 "resourcePath": "scripts\\font_dialogue\\font_dialogue.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ed1e86f5-9fea-4b95-a6fb-f5fc8f4188e9",
+            "Value": {
+                "id": "4ab37905-30bb-45a1-b841-4698f1c6c259",
+                "resourcePath": "objects\\o_NameBox\\o_NameBox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
