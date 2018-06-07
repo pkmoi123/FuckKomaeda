@@ -12,5 +12,21 @@ if(showingChoices){
 	}
 	choiceBox[currentChoice].image_index = 1;
 
-	
+	if(keyboard_check_pressed(vk_space)&&alarm[0]<0){
+		index1 = choiceBox[currentChoice].myNumber;
+		index2 = 0;
+		showingChoices = false;
+		currentChoice =0;
+		//Destroy the choiceBoxes
+		for(i=0;i<array_length_1d(choiceBox);++i){
+			with(choiceBox[i])
+				instance_destroy();
+		}
+		choiceBox = 0;
+		if(index1!=99){
+			scrDialogue();
+		}
+		else
+			spr_player.alarm[0] = 10;
+	}
 }
