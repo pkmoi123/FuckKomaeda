@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "6aed9ccb-d81e-4935-acca-97d51a4a2770",
+            "Value": {
+                "id": "96c9382b-c431-4cf8-b8c4-d9567860a8ab",
+                "resourcePath": "fonts\\fnt_eras\\fnt_eras.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "746ca9bf-ca51-4986-8aab-5dedcc78122d",
             "Value": {
                 "id": "321fd5fb-2e80-4eb6-a27d-bb5c37c4b1bd",
@@ -511,6 +519,14 @@
             }
         },
         {
+            "Key": "e93d490c-b269-4eb2-b8c7-6b48a642292c",
+            "Value": {
+                "id": "5a3672ea-ad83-41bd-9ad9-491cbbeeee8d",
+                "resourcePath": "scripts\\font_dialogue\\font_dialogue.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f3a440c7-3fae-4b65-b1b9-048a599fc405",
             "Value": {
                 "id": "b0a8664a-cd86-40d0-93d6-8fb329bdc248",
@@ -574,7 +590,8 @@
         "9b3a1596-4f63-4c25-bdd1-6f846ad2232c",
         "3f0c546d-7d87-471c-a292-92aff9385e98",
         "92480eaf-132d-407c-8222-5b57a83d98da",
-        "7798e0f5-8daa-4760-a3cb-b643542ef615"
+        "7798e0f5-8daa-4760-a3cb-b643542ef615",
+        "e93d490c-b269-4eb2-b8c7-6b48a642292c"
     ],
     "tutorial": ""
 }
