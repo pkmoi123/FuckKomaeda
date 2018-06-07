@@ -6,4 +6,6 @@ len = 0;
 dir = 0;
 
 state = move_state;
-isTalking = false //whether player is chatting
+playerSpeed = 2.5; //Movement variable
+isTalking = false; //Whether player is currently chatting
+image_speed = 0; //Dont' play through animations
