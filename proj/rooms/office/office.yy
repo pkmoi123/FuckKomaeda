@@ -2,7 +2,7 @@
 {
     "name": "office",
     "id": "86cd0ff3-0f1e-4657-ba04-d96aefc44211",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

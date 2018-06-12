@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "21c2c976-0d29-4a64-b7b9-b18bcdd872af",
+            "Value": {
+                "id": "0bd54751-453e-4973-9002-1de304d2e4f7",
+                "resourcePath": "scripts\\scr_text\\scr_text.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "262750a7-9fb0-41d6-87bc-2704c04f06d2",
             "Value": {
                 "id": "7ac30a6b-7374-4090-bf30-877199410c2f",
@@ -196,6 +204,14 @@
                 "id": "f937b2e3-2f5c-475c-9d9b-e18b9cab423f",
                 "resourcePath": "objects\\o_journal\\o_journal.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5522f52f-8fba-40ac-a9d1-08792c36a270",
+            "Value": {
+                "id": "f5ca4e81-30fb-45f0-9596-0e6652561246",
+                "resourcePath": "sprites\\word\\word.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -359,19 +375,19 @@
             }
         },
         {
-            "Key": "9b3a1596-4f63-4c25-bdd1-6f846ad2232c",
-            "Value": {
-                "id": "5e07b23d-3d63-46f8-9db5-be18429fb711",
-                "resourcePath": "scripts\\scr_init\\scr_init.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "9b944a30-92ae-4434-9cb5-e10d7efbe627",
             "Value": {
                 "id": "4d722ca7-a712-4476-974a-c8dd9ed4c09c",
                 "resourcePath": "sprites\\dialoguebox\\dialoguebox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a070173b-f0ca-464c-a3c4-2915fc72b024",
+            "Value": {
+                "id": "e03d1d4e-99ff-44b4-9567-c0bd120fb271",
+                "resourcePath": "objects\\o_word\\o_word.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -396,14 +412,6 @@
                 "id": "82416854-b24b-431b-90b2-5487d7fd4ea1",
                 "resourcePath": "sprites\\RoomChangeTrigger\\RoomChangeTrigger.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a5060feb-b39d-49a4-a78c-0527323ad0c4",
-            "Value": {
-                "id": "d7b1da20-b0f2-4cd2-813a-48a2f773359a",
-                "resourcePath": "objects\\o_init\\o_init.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -535,14 +543,6 @@
             }
         },
         {
-            "Key": "d613d8d5-acb7-44a6-8d4b-74ca0fb03bec",
-            "Value": {
-                "id": "e19eb561-3bf9-42c5-b8f9-11a21a5fb2c8",
-                "resourcePath": "objects\\o_boardinit\\o_boardinit.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "db4fbd65-6692-4fca-a1db-d3504cde43c7",
             "Value": {
                 "id": "16c8824c-059d-4115-994d-e51843fee48e",
@@ -588,6 +588,14 @@
                 "id": "5bab2567-0af8-40f0-8b42-ef8ba3ad8e47",
                 "resourcePath": "sprites\\namebox\\namebox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e7473254-14d7-4739-8281-8c30a29ba007",
+            "Value": {
+                "id": "76b5708c-fbdc-4c9a-9ada-d799a4bce2a6",
+                "resourcePath": "objects\\o_text\\o_text.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -699,12 +707,12 @@
         "e02308b3-2d79-4009-a87c-9743e9bd6799",
         "4a9055db-7e51-4e1d-bbba-bf6061b36be5",
         "a9d82bf7-9f46-49c3-b410-cf2624f029c0",
-        "9b3a1596-4f63-4c25-bdd1-6f846ad2232c",
         "3f0c546d-7d87-471c-a292-92aff9385e98",
         "92480eaf-132d-407c-8222-5b57a83d98da",
         "7798e0f5-8daa-4760-a3cb-b643542ef615",
         "e93d490c-b269-4eb2-b8c7-6b48a642292c",
-        "bb38fd73-899b-4ed5-86d4-9c18b320cc11"
+        "bb38fd73-899b-4ed5-86d4-9c18b320cc11",
+        "21c2c976-0d29-4a64-b7b9-b18bcdd872af"
     ],
     "tutorial": ""
 }

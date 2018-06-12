@@ -1,4 +1,3 @@
-//for global variables, etc
 global.day = 1;
 global.bkgd = 0;
 global.timer = 0;
