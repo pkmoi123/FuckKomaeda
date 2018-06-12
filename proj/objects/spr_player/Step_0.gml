@@ -36,7 +36,7 @@ if(!isTalking) {
     }
 }
 
-
+//npc1 collision
 if(collision_circle(x,y,64,o_npc_1,true,true))&& !isTalking{
 	if(keyboard_check_pressed(ord("F"))){
 		messageGiver = collision_circle(x,y,64,o_npc_1,true,true);
@@ -47,12 +47,25 @@ if(collision_circle(x,y,64,o_npc_1,true,true))&& !isTalking{
 		scrDialogue();
 	}
 }
+//desk collision
+if(collision_circle(x,y,64,o_desk,true,true))&& !isTalking{
+	
+	if(keyboard_check_pressed(ord("F"))){
+		messageGiver = collision_circle(x,y,64,o_desk,true,true);
+		PCTalking = self;
+		isTalking = true;
+		index1 = 0;
+		index2 = 0;
+		scrDialogue();
+	}
+}
 
-if(!collision_circle(x,y,64,o_npc_1,true,true)){
+if(!collision_circle(x,y,64,o_npc_1,true,true)&&!collision_circle(x,y,64,o_desk,true,true)){
 	isTalking = false;
 	instance_destroy(o_DialogueBox);
 	instance_destroy(o_NameBox);
 }
+
 
 //Conversation Checks
 if(isTalking){
@@ -66,4 +79,19 @@ if(isTalking){
 if(fired && !isTalking){
 	show_message("You're fired!")
 	fired = false;
+}
+
+
+//Working Checks
+if(isTalking){
+	if(index1==00 && messageGiver.object_index == o_desk && currentChoice ==0)
+		working = true;
+	else if(index1==00 && messageGiver.object_index == o_desk && currentChoice ==1)
+		working = false;
+		
+}
+
+if(working && !isTalking){
+	room_goto(workRoom);
+	working = false;
 }

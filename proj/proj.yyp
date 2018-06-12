@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0033caf3-2a05-4c8f-94ce-ab319babb982",
+            "Value": {
+                "id": "e8a2c8a3-87ec-4946-8485-3730311b82fa",
+                "resourcePath": "sprites\\d\\d.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "01b64596-932a-4816-809f-b0fe1bbe59e2",
             "Value": {
                 "id": "ddf231c3-8ddf-4103-8344-b005cd948340",
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "59d9330c-a99f-4c86-99aa-f1520826187d",
+            "Value": {
+                "id": "11db4b7d-d6e2-4aaa-8b5f-a11db61439eb",
+                "resourcePath": "rooms\\workRoom\\workRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "5f14809e-8ecb-420e-9b10-474cba5e74ae",
             "Value": {
                 "id": "1773beb5-81a2-47b5-a156-9fe5691fe62a",
@@ -220,6 +236,14 @@
                 "id": "99df1bd2-6329-431b-9825-c94ed7c97fe6",
                 "resourcePath": "objects\\b_sleep\\b_sleep.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6138795e-17f8-48a0-871a-4d7f2d2de0cb",
+            "Value": {
+                "id": "7781b43d-d9c3-48e8-a8f0-8ae72a2cd3a7",
+                "resourcePath": "sprites\\stopworkbutton\\stopworkbutton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -404,6 +428,14 @@
                 "id": "df10a01c-2daf-4d73-8715-90bffb36e9b7",
                 "resourcePath": "sprites\\splayer\\splayer.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ac9215da-4102-4dcc-bbe5-ade950968caf",
+            "Value": {
+                "id": "c2e93fa5-c18e-49cb-8d5c-e3f4c8a54f0d",
+                "resourcePath": "objects\\o_desk\\o_desk.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -612,6 +644,14 @@
                 "id": "2d85772d-d526-4c86-b350-de309f4d88e2",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f42ba027-b968-4c87-b5c1-1d8145f9842e",
+            "Value": {
+                "id": "4dcd0f78-37be-4be5-b55e-9f95cedb4273",
+                "resourcePath": "objects\\b_stopwork\\b_stopwork.yy",
+                "resourceType": "GMObject"
             }
         },
         {

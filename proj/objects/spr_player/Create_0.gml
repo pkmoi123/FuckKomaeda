@@ -11,3 +11,4 @@ isTalking = false; //Whether player is currently chatting
 image_speed = 0; //Dont' play through animations
 
 fired = false;
+working = false;
