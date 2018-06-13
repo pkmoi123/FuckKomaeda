@@ -5,5 +5,5 @@ day_increments();
 room_speed = 30;
 
 
-alarm[0] = room_speed*15;
+alarm[0] = room_speed*30;
 

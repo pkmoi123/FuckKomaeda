@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "04413d12-8c8e-4f6a-9165-722a4f4664a5",
+            "Value": {
+                "id": "e40a1068-2e0c-4a0f-b3c0-76a6fb1ba056",
+                "resourcePath": "sprites\\Button\\Button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "066b6325-0f6d-4813-848e-c3cc034a80a4",
             "Value": {
                 "id": "974f7e19-350c-46fc-9f40-0dffb0f78ef4",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "3f569bf3-c728-487e-a7fb-1e95af911777",
+            "Value": {
+                "id": "5b4ebf27-398d-4615-ac0e-ab43cf41ec67",
+                "resourcePath": "sprites\\word1\\word1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4a9055db-7e51-4e1d-bbba-bf6061b36be5",
             "Value": {
                 "id": "06aa5018-e76e-4f16-9a8b-969595975cab",
@@ -259,6 +275,14 @@
             "Value": {
                 "id": "7781b43d-d9c3-48e8-a8f0-8ae72a2cd3a7",
                 "resourcePath": "sprites\\stopworkbutton\\stopworkbutton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "61d205fe-79b5-4121-af97-3f2220dbf0b7",
+            "Value": {
+                "id": "7bc7e93e-c00c-4a2a-ba8c-39360b008aa0",
+                "resourcePath": "sprites\\fillbox\\fillbox.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -359,6 +383,14 @@
             }
         },
         {
+            "Key": "894292a7-f574-49d0-8abd-2457e09193aa",
+            "Value": {
+                "id": "64595fdb-dccb-4c63-8021-637507fc9e4a",
+                "resourcePath": "objects\\o_confirmbutton\\o_confirmbutton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8deccebe-8a7d-4906-9ed0-e00365cbdd6f",
             "Value": {
                 "id": "5ae1f358-573b-467a-a136-fb5d8205497c",
@@ -455,11 +487,27 @@
             }
         },
         {
+            "Key": "afe78bf8-833a-4352-b862-d5d7a333f6bf",
+            "Value": {
+                "id": "c9495443-b01e-471c-9512-27991c206451",
+                "resourcePath": "objects\\o_inputbox\\o_inputbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b4bd8a5f-f73d-446a-8df2-c83fcfc7d340",
             "Value": {
                 "id": "4aa6b7b3-afe6-4753-b277-47f668fc8770",
                 "resourcePath": "sounds\\bkgd\\bkgd.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "b7b456ad-4e58-449e-9431-d032409a5ed5",
+            "Value": {
+                "id": "ddf26d30-13b5-4816-b8e9-2807cebc3cf5",
+                "resourcePath": "objects\\obj_text\\obj_text.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -483,6 +531,14 @@
             "Value": {
                 "id": "07f4d0a0-4ef8-439b-86ea-30c06ba81caf",
                 "resourcePath": "objects\\objPickUp\\objPickUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c316a690-1a39-46b9-8e24-6b527e3ce89e",
+            "Value": {
+                "id": "0e597976-6802-4749-aa87-4e566dcd6520",
+                "resourcePath": "objects\\o_articlebackdrop\\o_articlebackdrop.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -532,6 +588,14 @@
                 "id": "b868c553-17b8-4a58-ba7a-99900864c857",
                 "resourcePath": "objects\\o_fade\\o_fade.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d41abafb-7510-45ab-95de-7c3d03fa6180",
+            "Value": {
+                "id": "4139c6ef-cf08-4625-8f69-88f8e63d97ae",
+                "resourcePath": "scripts\\scr_displayarticle\\scr_displayarticle.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -712,7 +776,8 @@
         "7798e0f5-8daa-4760-a3cb-b643542ef615",
         "e93d490c-b269-4eb2-b8c7-6b48a642292c",
         "bb38fd73-899b-4ed5-86d4-9c18b320cc11",
-        "21c2c976-0d29-4a64-b7b9-b18bcdd872af"
+        "21c2c976-0d29-4a64-b7b9-b18bcdd872af",
+        "d41abafb-7510-45ab-95de-7c3d03fa6180"
     ],
     "tutorial": ""
 }
